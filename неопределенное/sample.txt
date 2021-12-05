@@ -1,0 +1,9 @@
+name|phone
+Abc;123
+Def;456
+Ghi;789
+
+sasha;5345
+Baciza;7792
+Baciza;7792
+Baciza;7792
